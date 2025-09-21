@@ -1,6 +1,6 @@
 name: infinite_listview_pagination
 description: "A customizable Flutter widget for infinite scrolling lists with optional sticky headers and pull-to-refresh."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/dizayn3r/infinite_listview_pagination.git
 repository: https://github.com/dizayn3r/infinite_listview_pagination.git
 issue_tracker: https://github.com/dizayn3r/infinite_listview_pagination.git/issues
